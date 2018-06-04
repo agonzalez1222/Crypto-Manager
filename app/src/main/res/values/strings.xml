@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Crypto-Manager</string>
+    <string name="Author">Created By: Armando Gonzalez</string>
+    <color name="green">#32CD32</color>
+    <string name="btntxt">Get Started Here!</string>
+    <string name="txtBitDesc">Bitcoin Picture</string>
+    <string name="txtLiteCoinDesc">LITE Coin Pic</string>
+    <string name="txtBit">Bitcoin</string>
+    <string name="txtLITE">LITE Coin</string>
+    <string name="txtEthereum">Ethereum</string>
+    <string name="txtRipple">Ripple</string>
+    <string name="txtEOS">EOS</string>
+    <string name="txtInstructions">Click on type of currency in order to start investing.</string>
+    <string name="txtI">Click Currency to Invest.</string>
+    <string name="UrlBit">Registration Link: https://www.coinbase.com/</string>
+    <string name="UrlRegister">Registration Link: https://www.coinbase.com/</string>
+    <string name="curBtn">Click For $ Values</string>
+    <string name="dolla">$</string>
+</resources>
